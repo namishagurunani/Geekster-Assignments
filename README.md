@@ -13,8 +13,9 @@
 'h1'- Unlimited movies, TV shows and more.: This is a level 1 heading 'h1' displaying the main title.
  <p id="p1">This is id p1 Watch anywhere. Cancel anytime.</p>: This is a paragraph with the "p1" ID, containing the first sentence of additional information.
  <p id="p2">This is id p2 Ready to watch? Enter your email to create or restart your membership.: This is another paragraph with the "p2" ID, containing the second sentence of additional information.
- #CSS
- Explanation:
+  
+ #CSS-Explanation
+
 - 'body': Sets the background image for the entire webpage and removes any default margin and padding.
 - 'netflix_image': Styles the Netflix logo container by setting its width, displaying it as a flex container, and adding padding.
 - 'top': Styles the top section container by setting its height and displaying it as a flex container.
