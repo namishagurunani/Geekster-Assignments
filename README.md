@@ -24,8 +24,8 @@ Explanation:
 7. h1: Styles the main heading by setting its font size and margin.
 8. p: Styles paragraphs by setting their margin and font weight.
 9. p1: Styles the first paragraph with the "p1" ID by setting its font size.
-#p2: Styles the second paragraph with the "p2" ID by setting its font size.
-#mid: Styles the middle section container by setting its text color, displaying it as a flex container, and vertically aligning its content.
+10. p2: Styles the second paragraph with the "p2" ID by setting its font size.
+11. mid: Styles the middle section container by setting its text color, displaying it as a flex container, and vertically aligning its content.
 
 # Sumbission-Required
 - Github Link:[click here](https://github.com/namishagurunani/Geekster-Assignments)
