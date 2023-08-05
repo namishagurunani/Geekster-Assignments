@@ -26,7 +26,7 @@ p: Styles paragraphs by setting their margin and font weight.
 #p1: Styles the first paragraph with the "p1" ID by setting its font size.
 #p2: Styles the second paragraph with the "p2" ID by setting its font size.
 #mid: Styles the middle section container by setting its text color, displaying it as a flex container, and vertically aligning its content.
-  
+
 # Sumbission-Required
 - Github Link:[click here](https://github.com/namishagurunani/Geekster-Assignments)
 - Hosted Link:[Click here](https://namishagurunani.github.io/Geekster-Assignments/Netflix/index.html) 
