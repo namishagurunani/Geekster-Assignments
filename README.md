@@ -1,7 +1,7 @@
 # Geekster-Assignment
 ![image](https://github.com/namishagurunani/Geekster-Assignments/assets/126158413/f127468a-a8c3-43c4-815a-0c7ecd8c9859)
- #HTML
- Explanation:
+
+ # HTML  Explanation:
 <div id="alpha">: This div with the "alpha" ID is a container element that wraps the entire content of the page.
 <div id="top">: This div with the "top" ID represents the top section of the webpage, where the Netflix logo, sign-in, and register buttons are placed.
 <div id="netflix_img">: This div with the "netflix_img" ID holds the Netflix logo, which is an image sourced from an external URL.
@@ -14,8 +14,7 @@
  <p id="p1">This is id p1 Watch anywhere. Cancel anytime.</p>: This is a paragraph with the "p1" ID, containing the first sentence of additional information.
  <p id="p2">This is id p2 Ready to watch? Enter your email to create or restart your membership.: This is another paragraph with the "p2" ID, containing the second sentence of additional information.
   
- #CSS-Explanation
-
+ # CSS-Explanation
 - 'body': Sets the background image for the entire webpage and removes any default margin and padding.
 - 'netflix_image': Styles the Netflix logo container by setting its width, displaying it as a flex container, and adding padding.
 - 'top': Styles the top section container by setting its height and displaying it as a flex container.
