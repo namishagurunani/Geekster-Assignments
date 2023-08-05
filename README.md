@@ -10,9 +10,9 @@
 <button id="signin">Sign In</button>: This is a button element with the "signin" ID, displaying the text "Sign In".
 <button id="signin">Register</button>: This is another button element with the same "signin" ID (IDs should be unique), displaying the text "Register".
 <div id="mid">: This div with the "mid" ID represents the middle section of the webpage, where the main heading and paragraphs are placed.
-<h1>Unlimited movies, TV shows and more.: This is a level 1 heading (h1) displaying the main title.
-<p id="p1">Watch anywhere. Cancel anytime.</p>: This is a paragraph with the "p1" ID, containing the first sentence of additional information.
-<p id="p2">Ready to watch? Enter your email to create or restart your membership.</p>: This is another paragraph with the "p2" ID, containing the second sentence of additional information.
+'h1'- Unlimited movies, TV shows and more.: This is a level 1 heading (h1) displaying the main title.
+ <p id="p1">This is id p1 Watch anywhere. Cancel anytime.</p>: This is a paragraph with the "p1" ID, containing the first sentence of additional information.
+ <p id="p2">This is id p2 Ready to watch? Enter your email to create or restart your membership.: This is another paragraph with the "p2" ID, containing the second sentence of additional information.
  #CSS
  Explanation:
 - 'body': Sets the background image for the entire webpage and removes any default margin and padding.
