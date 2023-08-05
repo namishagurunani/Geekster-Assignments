@@ -5,12 +5,12 @@
 <div id="alpha">: This div with the "alpha" ID is a container element that wraps the entire content of the page.
 <div id="top">: This div with the "top" ID represents the top section of the webpage, where the Netflix logo, sign-in, and register buttons are placed.
 <div id="netflix_image">: This div with the "netflix_image" ID holds the Netflix logo, which is an image sourced from an external URL.
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_2015_logo.svg.png" width="148" height="50"/>: This is an image element that displays the Netflix logo sourced from the provided URL and sets its width and height attributes.
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/2560px-Netflix_.png" width="148" height="50"/>: This is an image element that displays the Netflix logo sourced from the provided URL and sets its width and height attributes.
 <div id="button">: This div with the "button" ID contains the sign-in and register buttons.
 <button id="signin">Sign In</button>: This is a button element with the "signin" ID, displaying the text "Sign In".
 <button id="signin">Register</button>: This is another button element with the same "signin" ID (IDs should be unique), displaying the text "Register".
 <div id="mid">: This div with the "mid" ID represents the middle section of the webpage, where the main heading and paragraphs are placed.
-<h1>Unlimited movies, TV shows and more.</h1>: This is a level 1 heading (h1) displaying the main title.
+<h1>Unlimited movies, TV shows and more.: This is a level 1 heading (h1) displaying the main title.
 <p id="p1">Watch anywhere. Cancel anytime.</p>: This is a paragraph with the "p1" ID, containing the first sentence of additional information.
 <p id="p2">Ready to watch? Enter your email to create or restart your membership.</p>: This is another paragraph with the "p2" ID, containing the second sentence of additional information.
  #CSS
