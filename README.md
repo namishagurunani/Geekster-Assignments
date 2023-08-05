@@ -15,15 +15,15 @@
 <p id="p2">Ready to watch? Enter your email to create or restart your membership.</p>: This is another paragraph with the "p2" ID, containing the second sentence of additional information.
  #CSS
 Explanation:
-body: Sets the background image for the entire webpage and removes any default margin and padding.
-#netflix_image: Styles the Netflix logo container by setting its width, displaying it as a flex container, and adding padding.
-#top: Styles the top section container by setting its height and displaying it as a flex container.
-#alpha: Styles the main container by giving it a semi-transparent black background and setting its height to fill the viewport.
-#signin: Styles the sign-in and register buttons by setting their background color, padding, border, font color, font size, border radius, and font weight.
-#button: Styles the button container by adding padding, setting its width, and aligning the buttons to the right.
-h1: Styles the main heading by setting its font size and margin.
-p: Styles paragraphs by setting their margin and font weight.
-#p1: Styles the first paragraph with the "p1" ID by setting its font size.
+1. 'body': Sets the background image for the entire webpage and removes any default margin and padding.
+2 .#netflix_image: Styles the Netflix logo container by setting its width, displaying it as a flex container, and adding padding.
+3. #top: Styles the top section container by setting its height and displaying it as a flex container.
+4. #alpha: Styles the main container by giving it a semi-transparent black background and setting its height to fill the viewport.
+5. #signin: Styles the sign-in and register buttons by setting their background color, padding, border, font color, font size, border radius, and font weight.
+6. #button: Styles the button container by adding padding, setting its width, and aligning the buttons to the right.
+7. h1: Styles the main heading by setting its font size and margin.
+8. p: Styles paragraphs by setting their margin and font weight.
+9. #p1: Styles the first paragraph with the "p1" ID by setting its font size.
 #p2: Styles the second paragraph with the "p2" ID by setting its font size.
 #mid: Styles the middle section container by setting its text color, displaying it as a flex container, and vertically aligning its content.
 
